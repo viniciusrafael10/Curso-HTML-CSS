@@ -1,0 +1,24 @@
+header{
+    font-family:Arial;
+    padding: 5px;
+    background-color: #666;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0% ;
+}
+
+p{
+    font-family: helvetica;
+    color: black;
+    padding: 5px;
+    margin-top: 2px;
+
+}
+hr{
+    color: red;
+}
+
+#fim{
+    color: red;
+    background-color: black;
+}

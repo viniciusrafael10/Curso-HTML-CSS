@@ -1,0 +1,18 @@
+h1{
+    background-color: #666;
+    height: 300px;
+    width: 300px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: green;
+    text-align: center;
+    margin: 10px;
+    margin: auto;
+}
+span{
+    border-color: red;
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+    
+}
